@@ -1,0 +1,23 @@
+{
+  "name": "project-space",
+  "version": "0.0.0",
+  "description": "PeskyWabbit's Project:Space, a remake of Space Uncharted.",
+  "author": {
+    "name": "PeskyWabbit",
+    "email": "wpesky@gmail.com"
+  },
+  "homepage": "space-pesky.rhcloud.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wpesky/space"
+  },
+  "engines": {
+    "node": ">= 0.10.0",
+    "npm": ">= 1.0.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.12.3",
+    "express": "~3.4.4"
+  },
+  "main": "main.node.js"
+}
